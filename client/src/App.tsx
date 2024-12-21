@@ -1,10 +1,9 @@
-import React from 'react'
-import UploadFilePage from './UploadFilePage'
+import MainPage from './MainPage'
 
 export default function App() {
   return (
     <div>
-      <UploadFilePage/>
+      <MainPage/>
     </div>
   )
 }
